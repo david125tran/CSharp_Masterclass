@@ -1,0 +1,15 @@
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\bin\Debug\net6.0\Section02.exe
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\bin\Debug\net6.0\Section02.deps.json
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\bin\Debug\net6.0\Section02.runtimeconfig.json
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\bin\Debug\net6.0\Section02.dll
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\bin\Debug\net6.0\Section02.pdb
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\obj\Debug\net6.0\Section02.csproj.AssemblyReference.cache
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\obj\Debug\net6.0\Section02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\obj\Debug\net6.0\Section02.AssemblyInfoInputs.cache
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\obj\Debug\net6.0\Section02.AssemblyInfo.cs
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\obj\Debug\net6.0\Section02.csproj.CoreCompileInputs.cache
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\obj\Debug\net6.0\Section02.dll
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\obj\Debug\net6.0\refint\Section02.dll
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\obj\Debug\net6.0\Section02.pdb
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\obj\Debug\net6.0\Section02.genruntimeconfig.cache
+C:\Users\DTran\Desktop\Coding\CSharp\Section02\Section02\obj\Debug\net6.0\ref\Section02.dll
