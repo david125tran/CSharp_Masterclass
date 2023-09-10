@@ -1,0 +1,15 @@
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\bin\Debug\net7.0\Section05.exe
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\bin\Debug\net7.0\Section05.deps.json
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\bin\Debug\net7.0\Section05.runtimeconfig.json
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\bin\Debug\net7.0\Section05.dll
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\bin\Debug\net7.0\Section05.pdb
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\obj\Debug\net7.0\Section05.csproj.AssemblyReference.cache
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\obj\Debug\net7.0\Section05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\obj\Debug\net7.0\Section05.AssemblyInfoInputs.cache
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\obj\Debug\net7.0\Section05.AssemblyInfo.cs
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\obj\Debug\net7.0\Section05.csproj.CoreCompileInputs.cache
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\obj\Debug\net7.0\Section05.dll
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\obj\Debug\net7.0\refint\Section05.dll
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\obj\Debug\net7.0\Section05.pdb
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\obj\Debug\net7.0\Section05.genruntimeconfig.cache
+C:\Users\DTran\Desktop\Coding\CSharp\Section05\obj\Debug\net7.0\ref\Section05.dll
