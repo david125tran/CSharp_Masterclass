@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\obj\Debug\net8.0\MyQuizApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\obj\Debug\net8.0\MyQuizApplication.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\obj\Debug\net8.0\MyQuizApplication.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\obj\Debug\net8.0\MyQuizApplication.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\bin\Debug\net8.0\MyQuizApplication.exe
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\bin\Debug\net8.0\MyQuizApplication.deps.json
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\bin\Debug\net8.0\MyQuizApplication.runtimeconfig.json
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\bin\Debug\net8.0\MyQuizApplication.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\bin\Debug\net8.0\MyQuizApplication.pdb
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\obj\Debug\net8.0\MyQuizApplication.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\obj\Debug\net8.0\refint\MyQuizApplication.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\obj\Debug\net8.0\MyQuizApplication.pdb
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\obj\Debug\net8.0\MyQuizApplication.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section05\QuizApp\MyQuizApplication\MyQuizApplication\obj\Debug\net8.0\ref\MyQuizApplication.dll
