@@ -7,3 +7,4 @@ Section04 - Making Decisions (if, else if, else, switch)
 Section05 - Loops  
 Section06 - Classes  
 Section07 - Arrays  
+Section08 - Collections in C#
