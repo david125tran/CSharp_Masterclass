@@ -8,3 +8,5 @@ Section05 - Loops
 Section06 - Classes  
 Section07 - Arrays  
 Section08 - Collections in C#
+Section09 - Error Handling Continued...
+Section10 - Inheritance
