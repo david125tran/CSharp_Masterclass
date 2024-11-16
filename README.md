@@ -10,4 +10,7 @@ Section07 - Arrays
 Section08 - Collections in C#  
 Section09 - Error Handling Continued...  
 Section10 - Inheritance  
+Section11 - Interfaces and Polymorphism  
+Section12 - Structs in C#  
+
 
