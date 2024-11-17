@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\bin\Debug\net8.0\Section11.exe
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\bin\Debug\net8.0\Section11.deps.json
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\bin\Debug\net8.0\Section11.runtimeconfig.json
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\bin\Debug\net8.0\Section11.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\bin\Debug\net8.0\Section11.pdb
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\obj\Debug\net8.0\Section11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\obj\Debug\net8.0\Section11.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\obj\Debug\net8.0\Section11.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\obj\Debug\net8.0\Section11.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\obj\Debug\net8.0\Section11.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\obj\Debug\net8.0\refint\Section11.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\obj\Debug\net8.0\Section11.pdb
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\obj\Debug\net8.0\Section11.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section11\obj\Debug\net8.0\ref\Section11.dll
