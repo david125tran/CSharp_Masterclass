@@ -12,5 +12,7 @@ Section09 - Error Handling Continued...
 Section10 - Inheritance  
 Section11 - Interfaces and Polymorphism  
 Section12 - Structs in C#  
-
-
+Section13 - Events and Delegates  
+Section14 - Regular Expressions  
+Section15 - WPF - Windows Presentation Foundation (GUIs)  
+Section16 - WPF Project - Currency Converter - Part 1  
