@@ -1,0 +1,20 @@
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\bin\Debug\net8.0-windows\Part B - To Do List GUI.exe
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\bin\Debug\net8.0-windows\Part B - To Do List GUI.deps.json
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\bin\Debug\net8.0-windows\Part B - To Do List GUI.runtimeconfig.json
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\bin\Debug\net8.0-windows\Part B - To Do List GUI.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\bin\Debug\net8.0-windows\Part B - To Do List GUI.pdb
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\Part B - To Do List GUI_MarkupCompile.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\Part B - To Do List GUI_MarkupCompile.lref
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\Part B - To Do List GUI.g.resources
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\Part B - To Do List GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\Part B - To Do List GUI.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\Part B - To Do List GUI.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\Part B - To Do List GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\Part B - To Do List GUI.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\refint\Part B - To Do List GUI.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\Part B - To Do List GUI.pdb
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\Part B - To Do List GUI.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part B - To Do List GUI\obj\Debug\net8.0-windows\ref\Part B - To Do List GUI.dll
