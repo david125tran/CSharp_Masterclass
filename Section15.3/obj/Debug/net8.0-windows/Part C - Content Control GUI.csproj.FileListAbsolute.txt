@@ -1,0 +1,24 @@
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\bin\Debug\net8.0-windows\Part C - Content Control GUI.exe
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\bin\Debug\net8.0-windows\Part C - Content Control GUI.deps.json
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\bin\Debug\net8.0-windows\Part C - Content Control GUI.runtimeconfig.json
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\bin\Debug\net8.0-windows\Part C - Content Control GUI.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\bin\Debug\net8.0-windows\Part C - Content Control GUI.pdb
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\LoginView.g.cs
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\Part C - Content Control GUI_MarkupCompile.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\Part C - Content Control GUI_MarkupCompile.lref
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\LoginView.baml
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\Part C - Content Control GUI.g.resources
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\Part C - Content Control GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\Part C - Content Control GUI.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\Part C - Content Control GUI.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\Part C - Content Control GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\Part C - Content Control GUI.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\refint\Part C - Content Control GUI.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\Part C - Content Control GUI.pdb
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\Part C - Content Control GUI.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\ref\Part C - Content Control GUI.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\InvoiceView.g.cs
+C:\Users\Laptop\Desktop\Coding\CSharp\Section15\Part C - Content Control GUI\obj\Debug\net8.0-windows\InvoiceView.baml

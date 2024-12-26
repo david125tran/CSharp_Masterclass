@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Part C - Content Control GUI/1.0.0": {
+        "runtime": {
+          "Part C - Content Control GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Part C - Content Control GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
