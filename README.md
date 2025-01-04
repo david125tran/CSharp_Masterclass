@@ -16,3 +16,6 @@ Section13 - Events and Delegates
 Section14 - Regular Expressions  
 Section15 - WPF - Windows Presentation Foundation (GUIs)  
 Section16 - WPF Project - Currency Converter - Part 1  
+Section17 - Using Databases with C# (CRUD GUI App)  
+
+
