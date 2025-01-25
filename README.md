@@ -21,6 +21,6 @@ Section17 - Using Databases with C# (CRUD GUI App)
 <img src="https://github.com/david125tran/CSharp_Masterclass/blob/main/Section17/image.png" alt="CRUD GUI Desktop App" style="width: 50%;">  
 Section18 - WPF Project - Currency Converter - Part 2 (with CRUD functionality)  
 <img src="https://github.com/david125tran/CSharp_Masterclass/blob/main/Section18/image.png" alt="Currency Converter GUI Desktop App" style="width: 50%;">  
-Section19 - Linq  
+Section19.1 - Linq  
 Section20 - WPF Project - Currency Converter - Part 3 (with GUI DB & API)  
 
