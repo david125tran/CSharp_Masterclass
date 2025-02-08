@@ -24,3 +24,4 @@ Section18 - WPF Project - Currency Converter - Part 2 (with CRUD functionality)
 Section19 - Linq  
 Section20 - WPF Project - Currency Converter - Part 3 (with GUI DB & API)  
 Section21 - C# Clean Code  
+Section22 - C# Generics
