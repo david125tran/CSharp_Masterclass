@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\bin\Debug\net8.0\Section23.exe
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\bin\Debug\net8.0\Section23.deps.json
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\bin\Debug\net8.0\Section23.runtimeconfig.json
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\bin\Debug\net8.0\Section23.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\bin\Debug\net8.0\Section23.pdb
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\obj\Debug\net8.0\Section23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\obj\Debug\net8.0\Section23.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\obj\Debug\net8.0\Section23.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\obj\Debug\net8.0\Section23.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\obj\Debug\net8.0\Section23.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\obj\Debug\net8.0\refint\Section23.dll
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\obj\Debug\net8.0\Section23.pdb
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\obj\Debug\net8.0\Section23.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Coding\CSharp\Section23\obj\Debug\net8.0\ref\Section23.dll
